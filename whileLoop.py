@@ -18,8 +18,6 @@ def counter():
   
   return tempCounter # returns the result to the main flow. 
 
-
-print(counter())
 '''
 How to run:
 
