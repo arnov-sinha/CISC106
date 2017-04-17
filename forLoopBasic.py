@@ -1,6 +1,6 @@
 def forLoop(n):
 
-    for i in range(0,n): # Its gonna start counting from 1 to n here, 0 is not counted
+    for i in range(0,n): # Its gonna start counting from 0 to n-1 here, n is not counted
         print(str(i+1), ": time in loop")
 
         #Break example. if you wanted to break from the loop in case a condition
